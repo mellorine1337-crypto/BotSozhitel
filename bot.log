@@ -1,0 +1,222 @@
+2025-04-24 11:52:22,754 - INFO - База данных настроена
+2025-04-24 11:52:22,754 - INFO - Start polling
+2025-04-24 11:52:23,085 - INFO - Run polling for bot @AlmatyNeighbour_bot id=8045995077 - 'Поиск сожителей Алматы'
+2025-04-24 11:53:29,531 - INFO - База данных настроена
+2025-04-24 11:53:29,531 - INFO - Start polling
+2025-04-24 11:53:29,848 - INFO - Run polling for bot @AlmatyNeighbour_bot id=8045995077 - 'Поиск сожителей Алматы'
+2025-04-24 11:54:26,345 - WARNING - Received SIGINT signal
+2025-04-24 11:54:26,347 - INFO - Polling stopped for bot @AlmatyNeighbour_bot id=8045995077 - 'Поиск сожителей Алматы'
+2025-04-24 11:54:26,348 - INFO - Polling stopped
+2025-04-24 11:55:17,897 - INFO - База данных настроена
+2025-04-24 11:55:17,897 - INFO - Start polling
+2025-04-24 11:55:18,223 - INFO - Run polling for bot @AlmatyNeighbour_bot id=8045995077 - 'Поиск сожителей Алматы'
+2025-04-24 11:55:48,695 - WARNING - Received SIGINT signal
+2025-04-24 11:55:48,701 - INFO - Polling stopped for bot @AlmatyNeighbour_bot id=8045995077 - 'Поиск сожителей Алматы'
+2025-04-24 11:55:48,702 - INFO - Polling stopped
+2025-04-24 11:57:30,993 - INFO - База данных настроена
+2025-04-24 11:57:30,993 - INFO - Start polling
+2025-04-24 11:57:31,313 - INFO - Run polling for bot @AlmatyNeighbour_bot id=8045995077 - 'Поиск сожителей Алматы'
+2025-04-24 11:57:47,867 - WARNING - Received SIGINT signal
+2025-04-24 11:57:47,869 - INFO - Polling stopped for bot @AlmatyNeighbour_bot id=8045995077 - 'Поиск сожителей Алматы'
+2025-04-24 11:57:47,869 - INFO - Polling stopped
+2025-04-24 11:59:27,754 - INFO - База данных настроена
+2025-04-24 11:59:27,754 - INFO - Start polling
+2025-04-24 11:59:28,091 - INFO - Run polling for bot @AlmatyNeighbour_bot id=8045995077 - 'Поиск сожителей Алматы'
+2025-04-24 12:00:27,312 - INFO - Update id=904635548 is handled. Duration 368 ms by bot id=8045995077
+2025-04-24 12:00:35,035 - INFO - Update id=904635549 is handled. Duration 305 ms by bot id=8045995077
+2025-04-24 12:02:25,751 - WARNING - Received SIGINT signal
+2025-04-24 12:02:25,756 - INFO - Polling stopped for bot @AlmatyNeighbour_bot id=8045995077 - 'Поиск сожителей Алматы'
+2025-04-24 12:02:25,757 - INFO - Polling stopped
+2025-04-24 12:03:27,665 - INFO - База данных настроена
+2025-04-24 12:03:27,665 - INFO - Start polling
+2025-04-24 12:03:28,003 - INFO - Run polling for bot @AlmatyNeighbour_bot id=8045995077 - 'Поиск сожителей Алматы'
+2025-04-24 12:04:54,209 - WARNING - Received SIGINT signal
+2025-04-24 12:04:54,211 - INFO - Polling stopped for bot @AlmatyNeighbour_bot id=8045995077 - 'Поиск сожителей Алматы'
+2025-04-24 12:04:54,212 - INFO - Polling stopped
+2025-04-24 12:05:01,392 - INFO - База данных настроена
+2025-04-24 12:05:01,392 - INFO - Start polling
+2025-04-24 12:05:01,713 - INFO - Run polling for bot @AlmatyNeighbour_bot id=8045995077 - 'Поиск сожителей Алматы'
+2025-04-24 12:06:02,873 - INFO - Все анкеты успешно удалены
+2025-04-24 12:06:03,388 - INFO - Update id=904635550 is handled. Duration 524 ms by bot id=8045995077
+2025-04-24 12:06:08,508 - INFO - Update id=904635551 is handled. Duration 129 ms by bot id=8045995077
+2025-04-24 12:06:15,873 - INFO - Update id=904635552 is handled. Duration 131 ms by bot id=8045995077
+2025-04-24 12:06:17,769 - INFO - Update id=904635553 is handled. Duration 127 ms by bot id=8045995077
+2025-04-24 12:06:19,310 - INFO - Update id=904635554 is handled. Duration 128 ms by bot id=8045995077
+2025-04-24 12:06:23,031 - INFO - Update id=904635555 is handled. Duration 144 ms by bot id=8045995077
+2025-04-24 12:06:30,688 - INFO - Update id=904635556 is handled. Duration 173 ms by bot id=8045995077
+2025-04-24 12:06:40,887 - INFO - Update id=904635557 is handled. Duration 156 ms by bot id=8045995077
+2025-04-24 12:06:43,489 - INFO - Update id=904635558 is handled. Duration 229 ms by bot id=8045995077
+2025-04-24 12:06:52,821 - INFO - Update id=904635559 is handled. Duration 143 ms by bot id=8045995077
+2025-04-24 12:07:00,593 - INFO - Update id=904635560 is handled. Duration 133 ms by bot id=8045995077
+2025-04-24 12:07:02,634 - INFO - Update id=904635561 is handled. Duration 126 ms by bot id=8045995077
+2025-04-24 12:07:03,968 - INFO - Update id=904635562 is handled. Duration 129 ms by bot id=8045995077
+2025-04-24 12:07:07,257 - INFO - Update id=904635563 is handled. Duration 141 ms by bot id=8045995077
+2025-04-24 12:07:09,811 - INFO - Update id=904635564 is handled. Duration 134 ms by bot id=8045995077
+2025-04-24 12:07:18,137 - INFO - Update id=904635565 is handled. Duration 167 ms by bot id=8045995077
+2025-04-24 12:07:19,988 - INFO - Update id=904635566 is handled. Duration 377 ms by bot id=8045995077
+2025-04-24 12:07:22,146 - INFO - Update id=904635567 is handled. Duration 460 ms by bot id=8045995077
+2025-04-24 12:07:28,697 - INFO - Update id=904635568 is handled. Duration 381 ms by bot id=8045995077
+2025-04-24 12:10:47,166 - WARNING - Received SIGINT signal
+2025-04-24 12:10:47,170 - INFO - Polling stopped for bot @AlmatyNeighbour_bot id=8045995077 - 'Поиск сожителей Алматы'
+2025-04-24 12:10:47,171 - INFO - Polling stopped
+2025-04-24 12:11:00,897 - INFO - База данных настроена
+2025-04-24 12:11:00,897 - INFO - Start polling
+2025-04-24 12:11:01,228 - INFO - Run polling for bot @AlmatyNeighbour_bot id=8045995077 - 'Поиск сожителей Алматы'
+2025-04-24 12:11:06,856 - INFO - Получены лайкеры для 898352337: 1
+2025-04-24 12:11:06,856 - INFO - Сохранены данные для просмотра лайков для 898352337: {'roommates': [(13, 1623424147, 'Дамир', 19, 'Мужской', 'AlmaU', 'Умный', 'AgACAgIAAxkBAAIDQmgJ2bQsv4JH3DR0ZzTYr34uakxyAAL48zEblHNJSN531M3FDPOnAQADAgADeQADNgQ')], 'index': 0, 'mode': 'likers'}
+2025-04-24 12:11:07,207 - ERROR - Просмотр не запущен для 8045995077. user_data: {898352337: {'roommates': [(13, 1623424147, 'Дамир', 19, 'Мужской', 'AlmaU', 'Умный', 'AgACAgIAAxkBAAIDQmgJ2bQsv4JH3DR0ZzTYr34uakxyAAL48zEblHNJSN531M3FDPOnAQADAgADeQADNgQ')], 'index': 0, 'mode': 'likers'}}
+2025-04-24 12:11:07,440 - INFO - Update id=904635569 is handled. Duration 584 ms by bot id=8045995077
+2025-04-24 12:11:08,990 - INFO - Получены лайкеры для 898352337: 1
+2025-04-24 12:11:08,991 - INFO - Сохранены данные для просмотра лайков для 898352337: {'roommates': [(13, 1623424147, 'Дамир', 19, 'Мужской', 'AlmaU', 'Умный', 'AgACAgIAAxkBAAIDQmgJ2bQsv4JH3DR0ZzTYr34uakxyAAL48zEblHNJSN531M3FDPOnAQADAgADeQADNgQ')], 'index': 0, 'mode': 'likers'}
+2025-04-24 12:11:09,119 - ERROR - Просмотр не запущен для 8045995077. user_data: {898352337: {'roommates': [(13, 1623424147, 'Дамир', 19, 'Мужской', 'AlmaU', 'Умный', 'AgACAgIAAxkBAAIDQmgJ2bQsv4JH3DR0ZzTYr34uakxyAAL48zEblHNJSN531M3FDPOnAQADAgADeQADNgQ')], 'index': 0, 'mode': 'likers'}}
+2025-04-24 12:11:09,362 - INFO - Update id=904635570 is handled. Duration 374 ms by bot id=8045995077
+2025-04-24 12:11:18,440 - INFO - Update id=904635571 is handled. Duration 135 ms by bot id=8045995077
+2025-04-24 12:11:25,016 - WARNING - Received SIGINT signal
+2025-04-24 12:11:25,017 - INFO - Polling stopped for bot @AlmatyNeighbour_bot id=8045995077 - 'Поиск сожителей Алматы'
+2025-04-24 12:11:25,017 - INFO - Polling stopped
+2025-04-24 12:15:28,034 - INFO - База данных настроена
+2025-04-24 12:15:28,034 - INFO - Start polling
+2025-04-24 12:15:28,361 - INFO - Run polling for bot @AlmatyNeighbour_bot id=8045995077 - 'Поиск сожителей Алматы'
+2025-04-24 12:15:39,022 - INFO - Все анкеты успешно удалены
+2025-04-24 12:15:39,529 - INFO - Update id=904635572 is handled. Duration 510 ms by bot id=8045995077
+2025-04-24 12:15:41,089 - INFO - Update id=904635573 is handled. Duration 126 ms by bot id=8045995077
+2025-04-24 12:15:42,397 - INFO - Получена команда /start от 898352337
+2025-04-24 12:15:42,521 - INFO - Update id=904635574 is handled. Duration 125 ms by bot id=8045995077
+2025-04-24 12:15:45,356 - INFO - Update id=904635575 is handled. Duration 126 ms by bot id=8045995077
+2025-04-24 12:15:47,458 - INFO - Update id=904635576 is handled. Duration 146 ms by bot id=8045995077
+2025-04-24 12:15:49,923 - INFO - Update id=904635577 is handled. Duration 154 ms by bot id=8045995077
+2025-04-24 12:15:53,399 - INFO - Update id=904635578 is handled. Duration 150 ms by bot id=8045995077
+2025-04-24 12:15:56,219 - INFO - Update id=904635579 is handled. Duration 123 ms by bot id=8045995077
+2025-04-24 12:16:05,391 - INFO - Update id=904635580 is handled. Duration 138 ms by bot id=8045995077
+2025-04-24 12:16:13,760 - INFO - Update id=904635581 is handled. Duration 129 ms by bot id=8045995077
+2025-04-24 12:16:15,573 - INFO - Получена команда /start от 1623424147
+2025-04-24 12:16:15,712 - INFO - Update id=904635582 is handled. Duration 140 ms by bot id=8045995077
+2025-04-24 12:16:18,424 - INFO - Update id=904635583 is handled. Duration 144 ms by bot id=8045995077
+2025-04-24 12:16:20,351 - INFO - Update id=904635584 is handled. Duration 171 ms by bot id=8045995077
+2025-04-24 12:16:21,558 - INFO - Update id=904635585 is handled. Duration 132 ms by bot id=8045995077
+2025-04-24 12:16:24,672 - INFO - Update id=904635586 is handled. Duration 131 ms by bot id=8045995077
+2025-04-24 12:16:27,344 - INFO - Update id=904635587 is handled. Duration 125 ms by bot id=8045995077
+2025-04-24 12:16:32,631 - INFO - Update id=904635588 is handled. Duration 243 ms by bot id=8045995077
+2025-04-24 12:16:33,942 - INFO - Update id=904635589 is handled. Duration 306 ms by bot id=8045995077
+2025-04-24 12:16:35,517 - INFO - Анкеты закончились для 1623424147
+2025-04-24 12:16:35,687 - INFO - Update id=904635590 is handled. Duration 351 ms by bot id=8045995077
+2025-04-24 12:16:41,114 - INFO - Получены лайкеры для 898352337: 1
+2025-04-24 12:16:41,115 - INFO - Сохранены данные для просмотра лайков для 898352337: {'roommates': [(15, 1623424147, 'Руслан', 19, 'Мужской', 'AlmaU', 'Умный', 'AgACAgIAAxkBAAIDn2gJ5VDFfD20pM48pukRoPQrguXiAAJm9DEblHNJSFi3iJR_FdXpAQADAgADeQADNgQ')], 'index': 0, 'mode': 'likers'}
+2025-04-24 12:16:41,624 - INFO - Update id=904635591 is handled. Duration 512 ms by bot id=8045995077
+2025-04-24 12:16:44,457 - INFO - Анкеты закончились для 898352337
+2025-04-24 12:16:44,598 - INFO - Update id=904635592 is handled. Duration 659 ms by bot id=8045995077
+2025-04-24 12:16:59,874 - INFO - Update id=904635593 is handled. Duration 210 ms by bot id=8045995077
+2025-04-24 12:17:01,076 - INFO - Update id=904635594 is handled. Duration 195 ms by bot id=8045995077
+2025-04-24 12:17:02,247 - INFO - Update id=904635595 is handled. Duration 132 ms by bot id=8045995077
+2025-04-24 12:17:06,065 - INFO - Описание пользователя 898352337 успешно обновлено
+2025-04-24 12:17:06,185 - INFO - Update id=904635596 is handled. Duration 128 ms by bot id=8045995077
+2025-04-24 12:17:07,546 - INFO - Update id=904635597 is handled. Duration 158 ms by bot id=8045995077
+2025-04-24 12:17:36,282 - INFO - Получены лайкеры для 1623424147: 1
+2025-04-24 12:17:36,283 - INFO - Сохранены данные для просмотра лайков для 1623424147: {'roommates': [(14, 898352337, 'Антон', 19, 'Мужской', 'AlmaU', 'Уву', 'AgACAgIAAxkBAAIDj2gJ5TV_3YvHcLowDGnWpjV7AkXWAAKJ6jEbVrlQSDFkuiVIybYYAQADAgADeQADNgQ')], 'index': 0, 'mode': 'likers'}
+2025-04-24 12:17:36,777 - INFO - Update id=904635598 is handled. Duration 502 ms by bot id=8045995077
+2025-04-24 12:20:56,517 - INFO - Все анкеты успешно удалены
+2025-04-24 12:20:56,644 - INFO - Update id=904635599 is handled. Duration 133 ms by bot id=8045995077
+2025-04-24 12:20:58,231 - INFO - Update id=904635600 is handled. Duration 136 ms by bot id=8045995077
+2025-04-24 12:20:59,383 - INFO - Получена команда /start от 898352337
+2025-04-24 12:20:59,536 - INFO - Update id=904635601 is handled. Duration 154 ms by bot id=8045995077
+2025-04-24 12:21:04,334 - INFO - Update id=904635602 is handled. Duration 249 ms by bot id=8045995077
+2025-04-24 12:21:05,962 - INFO - Update id=904635603 is handled. Duration 136 ms by bot id=8045995077
+2025-04-24 12:21:07,493 - INFO - Update id=904635604 is handled. Duration 234 ms by bot id=8045995077
+2025-04-24 12:21:10,880 - INFO - Update id=904635605 is handled. Duration 128 ms by bot id=8045995077
+2025-04-24 12:21:14,023 - INFO - Update id=904635606 is handled. Duration 211 ms by bot id=8045995077
+2025-04-24 12:21:19,434 - INFO - Update id=904635607 is handled. Duration 296 ms by bot id=8045995077
+2025-04-24 12:21:21,622 - INFO - Update id=904635608 is handled. Duration 129 ms by bot id=8045995077
+2025-04-24 12:21:33,846 - INFO - Анкеты закончились для 1623424147
+2025-04-24 12:21:33,972 - INFO - Update id=904635609 is handled. Duration 264 ms by bot id=8045995077
+2025-04-24 12:21:36,896 - INFO - Update id=904635610 is handled. Duration 124 ms by bot id=8045995077
+2025-04-24 12:21:38,909 - INFO - Получена команда /start от 1623424147
+2025-04-24 12:21:39,066 - INFO - Update id=904635611 is handled. Duration 158 ms by bot id=8045995077
+2025-04-24 12:21:42,037 - INFO - Update id=904635612 is handled. Duration 166 ms by bot id=8045995077
+2025-04-24 12:21:58,562 - INFO - Update id=904635613 is handled. Duration 127 ms by bot id=8045995077
+2025-04-24 12:21:59,914 - INFO - Update id=904635614 is handled. Duration 124 ms by bot id=8045995077
+2025-04-24 12:22:02,633 - INFO - Update id=904635615 is handled. Duration 232 ms by bot id=8045995077
+2025-04-24 12:22:05,020 - INFO - Update id=904635616 is handled. Duration 138 ms by bot id=8045995077
+2025-04-24 12:22:11,808 - INFO - Update id=904635617 is handled. Duration 132 ms by bot id=8045995077
+2025-04-24 12:22:13,217 - INFO - Update id=904635618 is handled. Duration 136 ms by bot id=8045995077
+2025-04-24 12:22:21,840 - INFO - Получены лайкеры для 898352337: 1
+2025-04-24 12:22:21,840 - INFO - Сохранены данные для просмотра лайков для 898352337: {'roommates': [(17, 1623424147, 'Руслан', 19, 'Мужской', 'AlmaU', 'Hak', 'AgACAgIAAxkBAAID3mgJ5qMWMAcwEldS7LY4EmNv98jeAAJq9DEblHNJSN7h48_D9IKEAQADAgADeQADNgQ')], 'index': 0, 'mode': 'likers'}
+2025-04-24 12:22:22,210 - INFO - Update id=904635619 is handled. Duration 372 ms by bot id=8045995077
+2025-04-24 12:22:27,529 - INFO - Анкеты закончились для 898352337
+2025-04-24 12:22:27,658 - INFO - Update id=904635620 is handled. Duration 527 ms by bot id=8045995077
+2025-04-24 12:22:35,335 - INFO - Получены лайкеры для 1623424147: 1
+2025-04-24 12:22:35,335 - INFO - Сохранены данные для просмотра лайков для 1623424147: {'roommates': [(16, 898352337, 'Антон', 19, 'Мужской', 'AlmaU', 'Тигр', 'AgACAgIAAxkBAAIDyWgJ5m9Qtn4tu1kb8Gx8hdssktZpAAKN6jEbVrlQSPO8df5_SAnSAQADAgADeQADNgQ')], 'index': 0, 'mode': 'likers'}
+2025-04-24 12:22:35,699 - INFO - Update id=904635621 is handled. Duration 367 ms by bot id=8045995077
+2025-04-24 12:26:11,928 - INFO - Все анкеты успешно удалены
+2025-04-24 12:26:12,054 - INFO - Update id=904635622 is handled. Duration 132 ms by bot id=8045995077
+2025-04-24 12:26:15,996 - INFO - Получена команда /start от 898352337
+2025-04-24 12:26:16,157 - INFO - Update id=904635623 is handled. Duration 161 ms by bot id=8045995077
+2025-04-24 12:26:18,587 - INFO - Update id=904635624 is handled. Duration 134 ms by bot id=8045995077
+2025-04-24 12:26:20,448 - INFO - Update id=904635625 is handled. Duration 127 ms by bot id=8045995077
+2025-04-24 12:26:21,649 - INFO - Update id=904635626 is handled. Duration 125 ms by bot id=8045995077
+2025-04-24 12:26:24,411 - INFO - Update id=904635627 is handled. Duration 219 ms by bot id=8045995077
+2025-04-24 12:26:27,326 - INFO - Update id=904635628 is handled. Duration 141 ms by bot id=8045995077
+2025-04-24 12:26:31,396 - INFO - Update id=904635629 is handled. Duration 137 ms by bot id=8045995077
+2025-04-24 12:26:33,103 - INFO - Update id=904635630 is handled. Duration 212 ms by bot id=8045995077
+2025-04-24 12:26:41,224 - INFO - Получена команда /start от 1623424147
+2025-04-24 12:26:41,363 - INFO - Update id=904635631 is handled. Duration 140 ms by bot id=8045995077
+2025-04-24 12:26:44,019 - INFO - Update id=904635632 is handled. Duration 169 ms by bot id=8045995077
+2025-04-24 12:26:45,689 - INFO - Update id=904635633 is handled. Duration 138 ms by bot id=8045995077
+2025-04-24 12:26:46,866 - INFO - Update id=904635634 is handled. Duration 273 ms by bot id=8045995077
+2025-04-24 12:26:49,499 - INFO - Update id=904635635 is handled. Duration 122 ms by bot id=8045995077
+2025-04-24 12:26:53,521 - INFO - Update id=904635636 is handled. Duration 138 ms by bot id=8045995077
+2025-04-24 12:27:01,102 - INFO - Update id=904635637 is handled. Duration 356 ms by bot id=8045995077
+2025-04-24 12:27:02,645 - INFO - Update id=904635638 is handled. Duration 264 ms by bot id=8045995077
+2025-04-24 12:27:05,398 - INFO - Анкеты закончились для 1623424147
+2025-04-24 12:27:05,529 - INFO - Update id=904635639 is handled. Duration 280 ms by bot id=8045995077
+2025-04-24 12:27:08,631 - INFO - Получены лайкеры для 898352337: 1
+2025-04-24 12:27:08,632 - INFO - Сохранены данные для просмотра лайков для 898352337: {'roommates': [(19, 1623424147, 'Руслан', 19, 'Мужской', 'AlmaU', 'Руслан', 'AgACAgIAAxkBAAIECGgJ58RrkrKWCOWZFMS21ggoZK2tAAIZ6TEblHNRSD2N1CrzWQ-gAQADAgADeQADNgQ')], 'index': 0, 'mode': 'likers'}
+2025-04-24 12:27:09,233 - INFO - Update id=904635640 is handled. Duration 604 ms by bot id=8045995077
+2025-04-24 12:27:12,982 - INFO - Анкеты закончились для 898352337
+2025-04-24 12:27:13,111 - INFO - Update id=904635641 is handled. Duration 591 ms by bot id=8045995077
+2025-04-24 12:27:45,725 - WARNING - Received SIGINT signal
+2025-04-24 12:27:45,727 - INFO - Polling stopped for bot @AlmatyNeighbour_bot id=8045995077 - 'Поиск сожителей Алматы'
+2025-04-24 12:27:45,728 - INFO - Polling stopped
+2025-04-24 12:30:21,062 - INFO - База данных настроена
+2025-04-24 12:30:21,062 - INFO - Start polling
+2025-04-24 12:30:21,412 - INFO - Run polling for bot @AlmatyNeighbour_bot id=8045995077 - 'Поиск сожителей Алматы'
+2025-04-24 12:30:21,540 - INFO - Все анкеты успешно удалены
+2025-04-24 12:30:21,899 - INFO - Update id=904635642 is handled. Duration 360 ms by bot id=8045995077
+2025-04-24 12:30:24,041 - INFO - Все анкеты успешно удалены
+2025-04-24 12:30:24,162 - INFO - Update id=904635643 is handled. Duration 125 ms by bot id=8045995077
+2025-04-24 12:30:29,128 - INFO - Получена команда /start от 898352337
+2025-04-24 12:30:29,353 - INFO - Update id=904635644 is handled. Duration 226 ms by bot id=8045995077
+2025-04-24 12:30:33,917 - INFO - Update id=904635645 is handled. Duration 126 ms by bot id=8045995077
+2025-04-24 12:30:36,942 - INFO - Update id=904635646 is handled. Duration 132 ms by bot id=8045995077
+2025-04-24 12:30:38,893 - INFO - Update id=904635647 is handled. Duration 137 ms by bot id=8045995077
+2025-04-24 12:30:40,310 - INFO - Update id=904635648 is handled. Duration 125 ms by bot id=8045995077
+2025-04-24 12:30:43,532 - INFO - Update id=904635649 is handled. Duration 169 ms by bot id=8045995077
+2025-04-24 12:30:50,368 - INFO - Update id=904635650 is handled. Duration 146 ms by bot id=8045995077
+2025-04-24 12:30:58,301 - INFO - Update id=904635651 is handled. Duration 194 ms by bot id=8045995077
+2025-04-24 12:31:05,213 - INFO - Update id=904635652 is handled. Duration 246 ms by bot id=8045995077
+2025-04-24 12:31:06,606 - INFO - Получена команда /start от 1623424147
+2025-04-24 12:31:06,744 - INFO - Update id=904635653 is handled. Duration 139 ms by bot id=8045995077
+2025-04-24 12:31:09,932 - INFO - Update id=904635654 is handled. Duration 152 ms by bot id=8045995077
+2025-04-24 12:31:11,667 - INFO - Update id=904635655 is handled. Duration 146 ms by bot id=8045995077
+2025-04-24 12:31:12,813 - INFO - Update id=904635656 is handled. Duration 164 ms by bot id=8045995077
+2025-04-24 12:31:18,096 - INFO - Update id=904635657 is handled. Duration 123 ms by bot id=8045995077
+2025-04-24 12:31:22,921 - INFO - Update id=904635658 is handled. Duration 137 ms by bot id=8045995077
+2025-04-24 12:31:27,221 - INFO - Update id=904635659 is handled. Duration 135 ms by bot id=8045995077
+2025-04-24 12:31:29,212 - INFO - Update id=904635660 is handled. Duration 441 ms by bot id=8045995077
+2025-04-24 12:31:32,110 - INFO - Добавлен лайк от 1623424147 к 898352337
+2025-04-24 12:31:32,369 - INFO - Отправлено уведомление о лайке пользователю 898352337
+2025-04-24 12:31:32,370 - INFO - Взаимный лайк между 1623424147 и 898352337: None
+2025-04-24 12:31:32,371 - INFO - Анкеты закончились для 1623424147
+2025-04-24 12:31:32,591 - INFO - Update id=904635661 is handled. Duration 486 ms by bot id=8045995077
+2025-04-24 12:31:35,473 - INFO - Получены лайкеры для 898352337: 1
+2025-04-24 12:31:35,473 - INFO - Сохранены данные для просмотра лайков для 898352337: {'roommates': [(21, 1623424147, 'Русдан', 19, 'Мужской', None, 'Умный оброзованный', 'AgACAgIAAxkBAAIEOGgJ6M9eM9CSN_eJRulV7Oi003V3AAIe6TEblHNRSGG4D0oPgw4jAQADAgADeQADNgQ')], 'index': 0, 'mode': 'likers'}
+2025-04-24 12:31:35,870 - INFO - Update id=904635662 is handled. Duration 398 ms by bot id=8045995077
+2025-04-24 12:31:37,552 - INFO - Добавлен лайк от 898352337 к 1623424147
+2025-04-24 12:31:37,682 - INFO - Отправлено уведомление о лайке пользователю 1623424147
+2025-04-24 12:31:37,684 - INFO - Взаимный лайк между 898352337 и 1623424147: (1623424147, 898352337)
+2025-04-24 12:31:37,973 - INFO - Отправлена анкета 1623424147 пользователю 898352337 из-за взаимного лайка
+2025-04-24 12:31:38,220 - INFO - Отправлена анкета 898352337 пользователю 1623424147 из-за взаимного лайка
+2025-04-24 12:31:38,221 - INFO - Анкеты закончились для 898352337
+2025-04-24 12:31:38,342 - INFO - Update id=904635663 is handled. Duration 795 ms by bot id=8045995077
+2025-04-24 12:33:21,801 - WARNING - Received SIGINT signal
+2025-04-24 12:33:21,804 - INFO - Polling stopped for bot @AlmatyNeighbour_bot id=8045995077 - 'Поиск сожителей Алматы'
+2025-04-24 12:33:21,805 - INFO - Polling stopped
