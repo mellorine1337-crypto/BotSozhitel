@@ -220,3 +220,256 @@
 2025-04-24 12:33:21,801 - WARNING - Received SIGINT signal
 2025-04-24 12:33:21,804 - INFO - Polling stopped for bot @AlmatyNeighbour_bot id=8045995077 - 'Поиск сожителей Алматы'
 2025-04-24 12:33:21,805 - INFO - Polling stopped
+2025-04-24 12:40:07,031 - INFO - База данных настроена
+2025-04-24 12:40:07,032 - INFO - Start polling
+2025-04-24 12:40:07,364 - INFO - Run polling for bot @AlmatyNeighbour_bot id=8045995077 - 'Поиск сожителей Алматы'
+2025-04-24 12:40:09,090 - WARNING - Received SIGINT signal
+2025-04-24 12:40:09,091 - INFO - Polling stopped for bot @AlmatyNeighbour_bot id=8045995077 - 'Поиск сожителей Алматы'
+2025-04-24 12:40:09,092 - INFO - Polling stopped
+2025-04-24 14:11:35,889 - INFO - База данных настроена
+2025-04-24 14:11:35,889 - INFO - Start polling
+2025-04-24 14:11:36,603 - INFO - Run polling for bot @AlmatyNeighbour_bot id=8045995077 - 'Поиск сожителей Алматы'
+2025-04-24 14:11:37,037 - INFO - Получена команда /start от 542259876
+2025-04-24 14:11:37,038 - INFO - Получена команда /start от 542259876
+2025-04-24 14:11:37,039 - INFO - Получена команда /start от 1919350339
+2025-04-24 14:11:37,040 - INFO - Получена команда /start от 880532553
+2025-04-24 14:11:37,058 - INFO - Update id=904636018 is not handled. Duration 22 ms by bot id=8045995077
+2025-04-24 14:11:37,832 - INFO - Update id=904635998 is handled. Duration 798 ms by bot id=8045995077
+2025-04-24 14:11:37,833 - INFO - Update id=904636011 is handled. Duration 797 ms by bot id=8045995077
+2025-04-24 14:11:37,833 - INFO - Update id=904636019 is handled. Duration 796 ms by bot id=8045995077
+2025-04-24 14:11:37,851 - INFO - Update id=904636017 is handled. Duration 814 ms by bot id=8045995077
+2025-04-24 14:11:37,851 - INFO - Update id=904636000 is handled. Duration 817 ms by bot id=8045995077
+2025-04-24 14:11:37,853 - INFO - Update id=904636012 is handled. Duration 817 ms by bot id=8045995077
+2025-04-24 14:11:37,856 - INFO - Update id=904635993 is handled. Duration 823 ms by bot id=8045995077
+2025-04-24 14:11:37,858 - INFO - Update id=904636024 is handled. Duration 821 ms by bot id=8045995077
+2025-04-24 14:11:37,870 - INFO - Update id=904636010 is handled. Duration 834 ms by bot id=8045995077
+2025-04-24 14:11:37,910 - INFO - Update id=904636023 is handled. Duration 874 ms by bot id=8045995077
+2025-04-24 14:11:37,911 - INFO - Update id=904635996 is handled. Duration 877 ms by bot id=8045995077
+2025-04-24 14:11:37,912 - INFO - Update id=904636015 is handled. Duration 876 ms by bot id=8045995077
+2025-04-24 14:11:37,912 - INFO - Update id=904636013 is handled. Duration 877 ms by bot id=8045995077
+2025-04-24 14:11:37,950 - INFO - Update id=904636016 is handled. Duration 913 ms by bot id=8045995077
+2025-04-24 14:11:37,950 - INFO - Update id=904636002 is handled. Duration 916 ms by bot id=8045995077
+2025-04-24 14:11:37,974 - INFO - Update id=904636022 is handled. Duration 937 ms by bot id=8045995077
+2025-04-24 14:11:37,974 - INFO - Update id=904636004 is handled. Duration 939 ms by bot id=8045995077
+2025-04-24 14:11:38,031 - INFO - Update id=904636008 is handled. Duration 996 ms by bot id=8045995077
+2025-04-24 14:11:38,033 - INFO - Update id=904636006 is handled. Duration 998 ms by bot id=8045995077
+2025-04-24 14:11:38,054 - INFO - Update id=904636014 is handled. Duration 1018 ms by bot id=8045995077
+2025-04-24 14:11:38,071 - INFO - Update id=904636001 is handled. Duration 1036 ms by bot id=8045995077
+2025-04-24 14:11:38,096 - INFO - Update id=904635995 is handled. Duration 1062 ms by bot id=8045995077
+2025-04-24 14:11:38,134 - INFO - Update id=904635990 is handled. Duration 1101 ms by bot id=8045995077
+2025-04-24 14:11:38,152 - INFO - Update id=904635997 is handled. Duration 1118 ms by bot id=8045995077
+2025-04-24 14:11:38,190 - INFO - Update id=904635989 is handled. Duration 1157 ms by bot id=8045995077
+2025-04-24 14:11:38,212 - INFO - Update id=904635999 is handled. Duration 1177 ms by bot id=8045995077
+2025-04-24 14:11:38,236 - INFO - Update id=904636003 is handled. Duration 1202 ms by bot id=8045995077
+2025-04-24 14:11:38,252 - INFO - Update id=904636005 is handled. Duration 1217 ms by bot id=8045995077
+2025-04-24 14:11:38,291 - INFO - Update id=904636007 is handled. Duration 1256 ms by bot id=8045995077
+2025-04-24 14:11:38,312 - INFO - Update id=904635994 is handled. Duration 1278 ms by bot id=8045995077
+2025-04-24 14:11:38,331 - INFO - Update id=904636009 is handled. Duration 1296 ms by bot id=8045995077
+2025-04-24 14:11:49,580 - INFO - Анкета пользователя 5540771467 успешно удалена
+2025-04-24 14:11:49,757 - INFO - Update id=904636025 is handled. Duration 184 ms by bot id=8045995077
+2025-04-24 14:11:56,177 - INFO - Update id=904636026 is handled. Duration 203 ms by bot id=8045995077
+2025-04-24 14:11:59,629 - INFO - Update id=904636027 is handled. Duration 224 ms by bot id=8045995077
+2025-04-24 14:12:01,656 - INFO - Update id=904636028 is handled. Duration 292 ms by bot id=8045995077
+2025-04-24 14:12:07,111 - INFO - Update id=904636029 is handled. Duration 219 ms by bot id=8045995077
+2025-04-24 14:12:19,396 - INFO - Update id=904636030 is handled. Duration 262 ms by bot id=8045995077
+2025-04-24 14:12:25,238 - INFO - Update id=904636031 is handled. Duration 223 ms by bot id=8045995077
+2025-04-24 14:12:27,756 - INFO - Update id=904636032 is handled. Duration 280 ms by bot id=8045995077
+2025-04-24 14:12:31,376 - INFO - Update id=904636033 is handled. Duration 216 ms by bot id=8045995077
+2025-04-24 14:12:32,693 - INFO - Update id=904636034 is handled. Duration 305 ms by bot id=8045995077
+2025-04-24 14:12:35,471 - INFO - Update id=904636035 is handled. Duration 270 ms by bot id=8045995077
+2025-04-24 14:12:40,292 - INFO - Update id=904636036 is handled. Duration 222 ms by bot id=8045995077
+2025-04-24 14:13:03,144 - INFO - Update id=904636037 is handled. Duration 224 ms by bot id=8045995077
+2025-04-24 14:13:06,023 - INFO - Update id=904636038 is handled. Duration 269 ms by bot id=8045995077
+2025-04-24 14:13:08,175 - INFO - Получена команда /start от 1277578451
+2025-04-24 14:13:08,341 - INFO - Update id=904636039 is handled. Duration 167 ms by bot id=8045995077
+2025-04-24 14:13:11,829 - INFO - Update id=904636040 is handled. Duration 158 ms by bot id=8045995077
+2025-04-24 14:13:13,733 - INFO - Update id=904636041 is handled. Duration 259 ms by bot id=8045995077
+2025-04-24 14:13:16,794 - INFO - Update id=904636042 is handled. Duration 159 ms by bot id=8045995077
+2025-04-24 14:13:19,630 - INFO - Update id=904636043 is handled. Duration 217 ms by bot id=8045995077
+2025-04-24 14:13:27,749 - INFO - Update id=904636044 is handled. Duration 190 ms by bot id=8045995077
+2025-04-24 14:13:36,714 - INFO - Update id=904636045 is handled. Duration 349 ms by bot id=8045995077
+2025-04-24 14:13:38,651 - INFO - Update id=904636046 is handled. Duration 217 ms by bot id=8045995077
+2025-04-24 14:17:31,361 - INFO - Получена команда /start от 1349590697
+2025-04-24 14:17:31,594 - INFO - Update id=904636047 is handled. Duration 236 ms by bot id=8045995077
+2025-04-24 14:17:40,951 - INFO - Update id=904636048 is handled. Duration 238 ms by bot id=8045995077
+2025-04-24 14:17:47,555 - INFO - Update id=904636049 is handled. Duration 202 ms by bot id=8045995077
+2025-04-24 14:17:49,309 - INFO - Update id=904636050 is handled. Duration 195 ms by bot id=8045995077
+2025-04-24 14:19:17,881 - INFO - Update id=904636051 is handled. Duration 214 ms by bot id=8045995077
+2025-04-24 14:31:13,297 - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2025-04-24 14:31:13,300 - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8045995077)
+2025-04-24 14:31:14,859 - INFO - Connection established (tryings = 1, bot id = 8045995077)
+2025-04-24 14:31:15,344 - INFO - Update id=904636052 is handled. Duration 483 ms by bot id=8045995077
+2025-04-24 14:31:15,362 - INFO - Update id=904636053 is handled. Duration 498 ms by bot id=8045995077
+2025-04-24 14:31:15,564 - INFO - Update id=904636054 is handled. Duration 699 ms by bot id=8045995077
+2025-04-24 14:31:21,000 - INFO - Update id=904636056 is handled. Duration 287 ms by bot id=8045995077
+2025-04-24 14:31:21,166 - INFO - Update id=904636055 is handled. Duration 646 ms by bot id=8045995077
+2025-04-24 14:31:23,655 - INFO - Получена команда /start от 1219638420
+2025-04-24 14:31:23,883 - INFO - Update id=904636057 is handled. Duration 229 ms by bot id=8045995077
+2025-04-24 14:31:28,496 - INFO - Update id=904636058 is handled. Duration 296 ms by bot id=8045995077
+2025-04-24 14:31:29,028 - INFO - Получена команда /start от 671117252
+2025-04-24 14:31:29,347 - INFO - Update id=904636059 is handled. Duration 319 ms by bot id=8045995077
+2025-04-24 14:31:31,381 - INFO - Update id=904636060 is handled. Duration 220 ms by bot id=8045995077
+2025-04-24 14:31:32,616 - INFO - Update id=904636061 is handled. Duration 236 ms by bot id=8045995077
+2025-04-24 14:31:33,478 - INFO - Update id=904636062 is handled. Duration 220 ms by bot id=8045995077
+2025-04-24 14:31:35,437 - INFO - Update id=904636063 is handled. Duration 224 ms by bot id=8045995077
+2025-04-24 14:31:35,578 - INFO - Update id=904636064 is handled. Duration 205 ms by bot id=8045995077
+2025-04-24 14:31:37,264 - INFO - Update id=904636065 is handled. Duration 257 ms by bot id=8045995077
+2025-04-24 14:31:39,008 - INFO - Update id=904636066 is handled. Duration 334 ms by bot id=8045995077
+2025-04-24 14:31:39,106 - INFO - Update id=904636067 is handled. Duration 279 ms by bot id=8045995077
+2025-04-24 14:31:40,483 - INFO - Update id=904636068 is handled. Duration 163 ms by bot id=8045995077
+2025-04-24 14:31:45,300 - INFO - Update id=904636069 is handled. Duration 220 ms by bot id=8045995077
+2025-04-24 14:31:46,623 - INFO - Update id=904636070 is handled. Duration 163 ms by bot id=8045995077
+2025-04-24 14:31:50,994 - INFO - Update id=904636071 is handled. Duration 220 ms by bot id=8045995077
+2025-04-24 14:31:51,828 - INFO - Update id=904636072 is handled. Duration 290 ms by bot id=8045995077
+2025-04-24 14:31:54,527 - INFO - Update id=904636073 is handled. Duration 255 ms by bot id=8045995077
+2025-04-24 14:32:07,319 - INFO - Update id=904636074 is handled. Duration 422 ms by bot id=8045995077
+2025-04-24 14:33:08,293 - INFO - Update id=904636075 is handled. Duration 252 ms by bot id=8045995077
+2025-04-24 14:33:23,272 - INFO - Update id=904636076 is not handled. Duration 5 ms by bot id=8045995077
+2025-04-24 14:33:28,396 - INFO - Update id=904636077 is handled. Duration 219 ms by bot id=8045995077
+2025-04-24 14:33:30,314 - INFO - Update id=904636078 is handled. Duration 274 ms by bot id=8045995077
+2025-04-24 14:33:33,051 - INFO - Update id=904636079 is handled. Duration 256 ms by bot id=8045995077
+2025-04-24 14:33:40,058 - INFO - Update id=904636080 is handled. Duration 301 ms by bot id=8045995077
+2025-04-24 14:33:47,357 - INFO - Получена команда /start от 1080573656
+2025-04-24 14:33:47,632 - INFO - Update id=904636081 is handled. Duration 276 ms by bot id=8045995077
+2025-04-24 14:33:53,215 - INFO - Update id=904636082 is handled. Duration 271 ms by bot id=8045995077
+2025-04-24 14:33:55,782 - INFO - Update id=904636083 is handled. Duration 175 ms by bot id=8045995077
+2025-04-24 14:33:57,435 - INFO - Update id=904636084 is handled. Duration 276 ms by bot id=8045995077
+2025-04-24 14:34:01,379 - INFO - Update id=904636085 is handled. Duration 157 ms by bot id=8045995077
+2025-04-24 14:34:17,320 - INFO - Update id=904636086 is handled. Duration 220 ms by bot id=8045995077
+2025-04-24 14:34:36,505 - INFO - Update id=904636087 is handled. Duration 243 ms by bot id=8045995077
+2025-04-24 14:34:48,085 - INFO - Update id=904636088 is handled. Duration 254 ms by bot id=8045995077
+2025-04-24 14:34:51,981 - INFO - Update id=904636089 is handled. Duration 310 ms by bot id=8045995077
+2025-04-24 14:34:53,781 - INFO - Update id=904636090 is handled. Duration 192 ms by bot id=8045995077
+2025-04-24 14:34:55,880 - INFO - Update id=904636091 is handled. Duration 163 ms by bot id=8045995077
+2025-04-24 14:35:01,191 - INFO - Описание пользователя 1349590697 успешно обновлено
+2025-04-24 14:35:01,458 - INFO - Update id=904636092 is handled. Duration 279 ms by bot id=8045995077
+2025-04-24 14:35:02,955 - INFO - Описание пользователя 1080573656 успешно обновлено
+2025-04-24 14:35:03,408 - INFO - Update id=904636093 is handled. Duration 459 ms by bot id=8045995077
+2025-04-24 14:35:04,436 - INFO - Update id=904636094 is handled. Duration 371 ms by bot id=8045995077
+2025-04-24 14:35:27,231 - INFO - Update id=904636095 is handled. Duration 482 ms by bot id=8045995077
+2025-04-24 14:35:32,171 - INFO - Update id=904636096 is handled. Duration 191 ms by bot id=8045995077
+2025-04-24 14:35:40,822 - INFO - Update id=904636097 is handled. Duration 235 ms by bot id=8045995077
+2025-04-24 14:36:02,716 - INFO - Update id=904636098 is handled. Duration 622 ms by bot id=8045995077
+2025-04-24 14:36:05,892 - INFO - Update id=904636099 is handled. Duration 409 ms by bot id=8045995077
+2025-04-24 14:36:13,320 - INFO - Добавлен лайк от 671117252 к 1277578451
+2025-04-24 14:36:13,540 - INFO - Отправлено уведомление о лайке пользователю 1277578451
+2025-04-24 14:36:13,542 - INFO - Взаимный лайк между 671117252 и 1277578451: None
+2025-04-24 14:36:13,777 - INFO - Update id=904636100 is handled. Duration 466 ms by bot id=8045995077
+2025-04-24 14:36:17,077 - INFO - Добавлен лайк от 671117252 к 1219638420
+2025-04-24 14:36:17,435 - INFO - Отправлено уведомление о лайке пользователю 1219638420
+2025-04-24 14:36:17,436 - INFO - Взаимный лайк между 671117252 и 1219638420: None
+2025-04-24 14:36:17,676 - INFO - Update id=904636101 is handled. Duration 607 ms by bot id=8045995077
+2025-04-24 14:36:29,995 - INFO - Добавлен лайк от 671117252 к 1080573656
+2025-04-24 14:36:30,182 - INFO - Отправлено уведомление о лайке пользователю 1080573656
+2025-04-24 14:36:30,184 - INFO - Взаимный лайк между 671117252 и 1080573656: None
+2025-04-24 14:36:30,184 - INFO - Анкеты закончились для 671117252
+2025-04-24 14:36:30,396 - INFO - Update id=904636102 is handled. Duration 409 ms by bot id=8045995077
+2025-04-24 14:36:33,565 - INFO - Update id=904636103 is handled. Duration 193 ms by bot id=8045995077
+2025-04-24 14:36:37,139 - INFO - Update id=904636104 is handled. Duration 184 ms by bot id=8045995077
+2025-04-24 14:37:33,581 - INFO - Анкета пользователя 818911609 успешно удалена
+2025-04-24 14:37:33,610 - INFO - Update id=904636105 is handled. Duration 223 ms by bot id=8045995077
+2025-04-24 14:37:34,077 - INFO - Update id=904636106 is handled. Duration 505 ms by bot id=8045995077
+2025-04-24 14:41:24,793 - INFO - Update id=904636107 is handled. Duration 640 ms by bot id=8045995077
+2025-04-24 14:48:24,575 - INFO - Получены лайкеры для 898352337: 1
+2025-04-24 14:48:24,577 - INFO - Сохранены данные для просмотра лайков для 898352337: {'roommates': [(21, 1623424147, 'Русдан', 19, 'Мужской', None, 'Умный оброзованный', 'AgACAgIAAxkBAAIEOGgJ6M9eM9CSN_eJRulV7Oi003V3AAIe6TEblHNRSGG4D0oPgw4jAQADAgADeQADNgQ')], 'index': 0, 'mode': 'likers'}
+2025-04-24 14:48:25,206 - INFO - Update id=904636108 is handled. Duration 643 ms by bot id=8045995077
+2025-04-24 14:48:34,192 - WARNING - Лайк от 898352337 к 1623424147 уже существует
+2025-04-24 14:48:34,193 - INFO - Добавлен лайк от 898352337 к 1623424147
+2025-04-24 14:48:34,572 - INFO - Отправлено уведомление о лайке пользователю 1623424147
+2025-04-24 14:48:34,573 - INFO - Взаимный лайк между 898352337 и 1623424147: (1623424147, 898352337)
+2025-04-24 14:48:35,944 - INFO - Отправлена анкета 1623424147 пользователю 898352337 из-за взаимного лайка
+2025-04-24 14:48:36,383 - INFO - Отправлена анкета 898352337 пользователю 1623424147 из-за взаимного лайка
+2025-04-24 14:48:36,384 - INFO - Анкеты закончились для 898352337
+2025-04-24 14:48:36,571 - INFO - Update id=904636109 is handled. Duration 2383 ms by bot id=8045995077
+2025-05-19 11:23:49,692 - INFO - База данных настроена
+2025-05-19 11:23:49,692 - INFO - Start polling
+2025-05-19 11:23:50,272 - INFO - Run polling for bot @AlmatyNeighbour_bot id=8045995077 - 'Поиск сожителей Алматы'
+2025-05-19 11:24:08,672 - INFO - Update id=904636122 is handled. Duration 535 ms by bot id=8045995077
+2025-05-19 11:24:35,185 - INFO - Все анкеты успешно удалены
+2025-05-19 11:24:35,334 - INFO - Update id=904636123 is handled. Duration 152 ms by bot id=8045995077
+2025-05-19 11:24:38,074 - INFO - Добавлен лайк от 898352337 к 5540771467
+2025-05-19 11:24:38,226 - INFO - Отправлено уведомление о лайке пользователю 5540771467
+2025-05-19 11:24:38,227 - INFO - Взаимный лайк между 898352337 и 5540771467: None
+2025-05-19 11:24:38,363 - INFO - Update id=904636124 is handled. Duration 296 ms by bot id=8045995077
+2025-05-19 11:24:42,464 - INFO - Добавлен лайк от 898352337 к 1349590697
+2025-05-19 11:24:42,615 - ERROR - Не удалось отправить уведомление о лайке пользователю 1349590697: Telegram server says - Forbidden: bot was blocked by the user
+2025-05-19 11:24:42,616 - INFO - Взаимный лайк между 898352337 и 1349590697: None
+2025-05-19 11:24:42,616 - INFO - Анкеты закончились для 898352337
+2025-05-19 11:24:42,759 - INFO - Update id=904636125 is handled. Duration 301 ms by bot id=8045995077
+2025-05-19 11:24:44,374 - INFO - Все анкеты успешно удалены
+2025-05-19 11:24:44,507 - INFO - Update id=904636126 is handled. Duration 135 ms by bot id=8045995077
+2025-05-19 11:24:45,586 - INFO - Update id=904636127 is handled. Duration 208 ms by bot id=8045995077
+2025-05-19 11:24:55,776 - INFO - Получена команда /start от 898352337
+2025-05-19 11:24:55,924 - INFO - Update id=904636128 is handled. Duration 149 ms by bot id=8045995077
+2025-05-19 11:24:59,518 - INFO - Update id=904636129 is handled. Duration 149 ms by bot id=8045995077
+2025-05-19 11:25:03,485 - INFO - Update id=904636130 is handled. Duration 148 ms by bot id=8045995077
+2025-05-19 11:25:05,772 - INFO - Update id=904636131 is handled. Duration 146 ms by bot id=8045995077
+2025-05-19 11:25:10,106 - INFO - Update id=904636132 is handled. Duration 152 ms by bot id=8045995077
+2025-05-19 11:25:21,443 - INFO - Update id=904636133 is handled. Duration 162 ms by bot id=8045995077
+2025-05-19 11:26:55,437 - INFO - Update id=904636134 is handled. Duration 144 ms by bot id=8045995077
+2025-05-19 11:26:58,923 - INFO - Update id=904636135 is handled. Duration 234 ms by bot id=8045995077
+2025-05-19 11:27:22,837 - INFO - Получена команда /start от 646559369
+2025-05-19 11:27:23,063 - INFO - Update id=904636136 is handled. Duration 225 ms by bot id=8045995077
+2025-05-19 11:27:27,178 - INFO - Update id=904636137 is handled. Duration 139 ms by bot id=8045995077
+2025-05-19 11:27:29,949 - INFO - Update id=904636138 is handled. Duration 144 ms by bot id=8045995077
+2025-05-19 11:27:31,484 - INFO - Update id=904636139 is handled. Duration 132 ms by bot id=8045995077
+2025-05-19 11:27:38,033 - INFO - Update id=904636140 is handled. Duration 222 ms by bot id=8045995077
+2025-05-19 11:27:50,460 - INFO - Update id=904636141 is handled. Duration 274 ms by bot id=8045995077
+2025-05-19 11:28:48,198 - INFO - Update id=904636142 is handled. Duration 158 ms by bot id=8045995077
+2025-05-19 11:28:51,815 - INFO - Update id=904636143 is handled. Duration 323 ms by bot id=8045995077
+2025-05-19 11:28:58,087 - INFO - Добавлен лайк от 646559369 к 898352337
+2025-05-19 11:28:58,235 - INFO - Отправлено уведомление о лайке пользователю 898352337
+2025-05-19 11:28:58,237 - INFO - Взаимный лайк между 646559369 и 898352337: None
+2025-05-19 11:28:58,237 - INFO - Анкеты закончились для 646559369
+2025-05-19 11:28:58,384 - INFO - Update id=904636144 is handled. Duration 302 ms by bot id=8045995077
+2025-05-19 11:29:11,183 - INFO - Получены лайкеры для 898352337: 1
+2025-05-19 11:29:11,183 - INFO - Сохранены данные для просмотра лайков для 898352337: {'roommates': [(29, 646559369, 'Дамир', 19, 'Мужской', 'AlmaU', 'Чистоплотный, общительный', 'AgACAgIAAxkBAAIIUWgqz6C6Y4FCCFfggBhp8rRp2xTxAALC9DEb3ARYScN0gqJcXUhCAQADAgADeQADNgQ')], 'index': 0, 'mode': 'likers'}
+2025-05-19 11:29:11,633 - INFO - Update id=904636145 is handled. Duration 453 ms by bot id=8045995077
+2025-05-19 11:29:16,305 - INFO - Добавлен лайк от 898352337 к 646559369
+2025-05-19 11:29:16,461 - INFO - Отправлено уведомление о лайке пользователю 646559369
+2025-05-19 11:29:16,462 - INFO - Взаимный лайк между 898352337 и 646559369: (646559369, 898352337)
+2025-05-19 11:29:16,791 - INFO - Отправлена анкета 646559369 пользователю 898352337 из-за взаимного лайка
+2025-05-19 11:29:17,065 - INFO - Отправлена анкета 898352337 пользователю 646559369 из-за взаимного лайка
+2025-05-19 11:29:17,065 - INFO - Анкеты закончились для 898352337
+2025-05-19 11:29:17,201 - INFO - Update id=904636146 is handled. Duration 902 ms by bot id=8045995077
+2025-05-19 11:29:27,448 - INFO - Все анкеты успешно удалены
+2025-05-19 11:29:27,627 - INFO - Update id=904636147 is handled. Duration 182 ms by bot id=8045995077
+2025-05-19 11:29:43,948 - INFO - Получена команда /start от 898352337
+2025-05-19 11:29:44,161 - INFO - Update id=904636148 is handled. Duration 214 ms by bot id=8045995077
+2025-05-19 11:29:48,146 - INFO - Получена команда /start от 898352337
+2025-05-19 11:29:48,307 - INFO - Update id=904636149 is handled. Duration 161 ms by bot id=8045995077
+2025-05-19 11:29:53,612 - INFO - Update id=904636150 is handled. Duration 243 ms by bot id=8045995077
+2025-05-19 11:29:55,885 - INFO - Update id=904636151 is handled. Duration 155 ms by bot id=8045995077
+2025-05-19 11:29:57,345 - INFO - Update id=904636152 is handled. Duration 132 ms by bot id=8045995077
+2025-05-19 11:30:01,211 - INFO - Update id=904636153 is handled. Duration 159 ms by bot id=8045995077
+2025-05-19 11:30:05,861 - INFO - Получена команда /start от 646559369
+2025-05-19 11:30:06,021 - INFO - Update id=904636154 is handled. Duration 160 ms by bot id=8045995077
+2025-05-19 11:30:20,952 - INFO - Update id=904636155 is handled. Duration 139 ms by bot id=8045995077
+2025-05-19 11:30:39,711 - INFO - Update id=904636156 is handled. Duration 142 ms by bot id=8045995077
+2025-05-29 18:44:27,273 - INFO - База данных настроена
+2025-05-29 18:44:27,274 - INFO - Start polling
+2025-05-29 18:44:27,800 - INFO - Run polling for bot @AlmatyNeighbour_bot id=8045995077 - 'Поиск сожителей Алматы'
+2025-05-29 19:03:37,828 - INFO - Получена команда /start от 898352337
+2025-05-29 19:03:38,765 - INFO - Update id=904636158 is handled. Duration 941 ms by bot id=8045995077
+2025-05-29 19:03:47,407 - WARNING - Received SIGINT signal
+2025-05-29 19:03:47,409 - INFO - Polling stopped for bot @AlmatyNeighbour_bot id=8045995077 - 'Поиск сожителей Алматы'
+2025-05-29 19:03:47,409 - INFO - Polling stopped
+2025-05-29 19:03:54,733 - INFO - База данных настроена
+2025-05-29 19:03:54,733 - INFO - Start polling
+2025-05-29 19:03:55,299 - INFO - Run polling for bot @AlmatyNeighbour_bot id=8045995077 - 'Поиск сожителей Алматы'
+2025-05-29 19:03:59,290 - INFO - Получена команда /start от 898352337
+2025-05-29 19:04:00,029 - INFO - Update id=904636159 is handled. Duration 740 ms by bot id=8045995077
+2025-05-29 19:04:02,346 - INFO - Update id=904636160 is handled. Duration 172 ms by bot id=8045995077
+2025-05-29 19:04:11,251 - INFO - Update id=904636161 is handled. Duration 257 ms by bot id=8045995077
+2025-05-29 19:10:27,580 - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2025-05-29 19:10:27,583 - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8045995077)
+2025-05-29 19:10:39,091 - INFO - Connection established (tryings = 1, bot id = 8045995077)
+2025-06-05 16:15:47,201 - INFO - База данных настроена
+2025-06-05 16:15:47,202 - INFO - Start polling
+2025-06-05 16:15:48,610 - INFO - Run polling for bot @AlmatyNeighbour_bot id=8045995077 - 'Поиск сожителей Алматы'
+2025-06-05 16:16:50,761 - INFO - Update id=904636162 is handled. Duration 700 ms by bot id=8045995077
+2025-06-05 16:16:59,086 - INFO - Получена команда /start от 1623424147
+2025-06-05 16:16:59,335 - INFO - Update id=904636163 is handled. Duration 249 ms by bot id=8045995077
+2025-06-05 16:45:20,151 - WARNING - Received SIGINT signal
+2025-06-05 16:45:20,155 - INFO - Polling stopped for bot @AlmatyNeighbour_bot id=8045995077 - 'Поиск сожителей Алматы'
+2025-06-05 16:45:20,155 - INFO - Polling stopped
